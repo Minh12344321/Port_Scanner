@@ -1,4 +1,4 @@
-Port Scanner
+## Port Scanner
 Giới thiệu
 Dự án này là một công cụ đơn giản sử dụng Python và thư viện socket để liệt kê các cổng giao thức trên một địa chỉ IP hoặc tên miền cụ thể. Nó giúp người dùng xác định các cổng đang mở và dịch vụ đang chạy trên đó.
 
